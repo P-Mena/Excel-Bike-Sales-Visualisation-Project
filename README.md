@@ -32,23 +32,36 @@ I built a pivot table to summarize sales by:
 - Product Category
 - Product Revenue
 
+  
+These pivot table help extract insights from the dataset efficiently.
+
+
 ### 📈 Vizualizing Column Chart
 I presented the pivot table as a graphical chart to visualize the summarized data, making it easier to interpret trends and comparisons, and assist in analysis and decision making.
 
-![Screenshot Column Chart]()
+![Screenshot Column Chart](images/Column_chart.png)
 
+---
+### 🎛️ **Pivot Tables for Pie Chart**
+I built a pivot table to summarize sales by:
+-Age group
+-Sum of Revenue
 
+These pivot table help extract insights from the dataset efficiently.
+
+### 📈 Vizualizing Pie Chart
+I presented the pivot table as a graphical chart to visualize the summarized data, making it easier to interpret trends and comparisons, and assist in analysis and decision making.
+
+![Screenshot Pie chart](images/Pie_chart.png)
 
 
 ## 📄 Project Files
-- **Excel Workbook:** Contains raw data, pivot tables, slicers, and charts.
+- **Excel Workbook:** Contains raw data, pivot tables, and charts.
 - **Images Folder** Contains all the screeshots using for this README.
  
 ---
 
 ## 🚀 What This Project Demonstrates
 - Ability to clean, structure, and analyze data in Excel  
-- Use of dynamic functions to create flexible views  
-- Building pivot tables for business insights  
-- Applying conditional formatting for clarity  
+- Building pivot tables for business insights   
 - Creating charts and interactive elements to improve data exploration  
