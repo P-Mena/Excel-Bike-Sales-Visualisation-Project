@@ -12,7 +12,7 @@ The goal of this project is to practice creating pivot tables charts in Microsof
 
 ## 🧰 Skills & Techniques Used
 
-### 🎛️ **Pivot Tables**
+### 🎛️ **Pivot Tables for Line Chart**
 I built a pivot table to summarize sales by:
 - Year 
 - Annual profit
@@ -23,7 +23,22 @@ These pivot table help extract insights from the dataset efficiently.
 ### 📈 Vizualizing Line Chart
 I presented the pivot table as a graphical chart to visualize the summarized data, making it easier to interpret trends and comparisons, and assist in analysis and decision making.
 
-![Screenshot Line chart](ima)
+![Screenshot Line chart](images/Line_chart.png)
+
+---
+### 🎛️ **Pivot Tables for Column Chart**
+I built a pivot table to summarize sales by:
+- Country
+- Product Category
+- Product Revenue
+
+### 📈 Vizualizing Column Chart
+I presented the pivot table as a graphical chart to visualize the summarized data, making it easier to interpret trends and comparisons, and assist in analysis and decision making.
+
+![Screenshot Column Chart]()
+
+
+
 
 ## 📄 Project Files
 - **Excel Workbook:** Contains raw data, pivot tables, slicers, and charts.
